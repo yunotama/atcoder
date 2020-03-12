@@ -1,0 +1,37 @@
+147 a.o- b.o- c.x+1 d.x+1
+146 a.o- b.o- c.x+1(二分探索) d.x+1(bfs)
+145 a.o- b.o- c.o+3(next_permutation) d.x+2(powmod)
+142 a.o- b.o- c.o+2 d.x+1(gcd,素因数)
+141 a.o- b.o- c.o+2 d.x+1
+140
+139 a.o- b.o+2 c.
+138 a.o- b.o+2 c.o+2 d.x+1
+137 a.o- b.o- c.x+1 d.
+136 a.o- b.o- c.x+ d.
+135
+134
+133
+132
+131
+130
+129
+128
+126 d.x+(根付き木)
+125
+124
+123
+122
+121
+120
+119 a.o- b.o- c.x+ d.o+
+118 a.o- b.o- c.x+ d.
+117 a.o- b.o- c.o- d.
+116 
+115
+111 a.o- b.o- c.x+ d.
+109 c.x+
+108 c.x-(llにしてなかった)
+107 c.x+
+112 a.o- b.o- c.
+49 a.o- b.o- c.o+2 d.
+48 a.o- b.x+1 c.o- d.o+1

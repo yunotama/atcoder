@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+#define rep(i, n) for (int i = 0; i < n; i++)
+#define INF 10000000000
+using namespace std;
+using ll = long long;
+int main()
+{
+    ll x, y;
+    cin >> x >> y;
+    ll cnt = 0;
+    while(y >= x){
+        x *= 2;
+        cnt++;
+    }
+    cout << cnt << endl;
+}
